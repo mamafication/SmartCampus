@@ -1,0 +1,6 @@
+{
+  "name": "CampusGenie",
+  "description": "Unified AI campus companion for schedules, grounded AI answers, events, library resources, placements, and role-based campus tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
